@@ -1,0 +1,228 @@
+{
+  "cakes": [
+    {
+      "id": "cake_001",
+      "name": "Vanilla Cake",
+      "price": 400,
+      "unit": "1kg",
+      "description": "Vanilla sponge cake made with rich butter and vanilla essence layered with cream",
+      "image": "public/cakes/vanilla-cake.jpg",
+      "available": true
+    },
+    {
+      "id": "cake_002",
+      "name": "Chocolate Cake",
+      "price": 600,
+      "unit": "1kg",
+      "description": "Chocolate sponge cake made with high quality cocoa, refined flour and butter, layered with cream and chocolate.",
+      "image": "public/cakes/chocolate-cake.jpg",
+      "available": true
+    },
+    {
+      "id": "cake_003",
+      "name": "Butterscotch Cake",
+      "price": 700,
+      "unit": "1kg",
+      "description": "Soft cake layered with butterscotch cream made with original butter and topped with caramel sauce",
+      "image": "public/cakes/butterscotch-cake.jpg",
+      "available": true
+    },
+    {
+      "id": "cake_004",
+      "name": "Pineapple Cake",
+      "price": 600,
+      "unit": "1kg",
+      "description": "Cake sponge made with pineapple essence and soaked it with pineapple juice layered with cream and pineapple chunks.",
+      "image": "public/cakes/pineapple-cake.jpg",
+      "available": true
+    },
+    {
+      "id": "cake_005",
+      "name": "Fruit Cake",
+      "price": 1200,
+      "unit": "1kg",
+      "description": "Vanilla sponge cake made with rich butter and soaked with fruit juice [kiwi, orange, apple and pomogranate] layered with cream and fruit chunks",
+      "image": "public/cakes/fruit-cake.jpg",
+      "available": true
+    },
+    {
+      "id": "cake_006",
+      "name": "Red Velvet Cake",
+      "price": 1000,
+      "unit": "1kg",
+      "description": "Soft red colored sponge cake with mild cocoa and cream cheese frosting",
+      "image": "public/cakes/red-valvet-cake.jpg",
+      "available": true
+    },
+    {
+      "id": "cake_007",
+      "name": "Chocolate Truffle Cake",
+      "price": 1100,
+      "unit": "1kg",
+      "description": "Chocolate sponge made with rich butter, refined flour, cocoa powder and layered with chocolate ganache ",
+      "image": "public/cakes/chocolate-truffle-cake.jpg",
+      "available": true
+    },
+    {
+      "id": "cake_008",
+      "name": "White Chocolate Truffle Cake",
+      "price": 1200,
+      "unit": "1kg",
+      "description": "Vanilla sponge made with rich butter, refined flour,  white choco chunks and layered with white chocolate ganache",
+      "image": "public/cakes/white-chocolate-truffle-cake.jpg",
+      "available": true
+    }
+  ],
+  "Brownies": [
+    {
+      "id": "brownie_001",
+      "name": "Classic Brownie",
+      "price": 700,
+      "unit": "500-600 grams",
+      "description": "Fudgy brownie made with butter, refined flour, cocoa powder, melted chocolate and eggs [ eggless version is also available] with intense taste",
+      "image": "public/brownies/classic-brownie-cake.jpg",
+      "available": true
+    },
+    {
+      "id": "brownie_002",
+      "name": "Double Chocolate Brownie",
+      "price": 750,
+      "unit": "600-700 grams",
+      "description": "Fudgy brownie  made with butter, refined flour, cocoa powder, melted chocolate and eggs [ eggless version is also available] with extra drizzled chocolate",
+      "image": "public/brownies/double-chocolate-brownie.jpg",
+      "available": true
+    },
+    {
+      "id": "brownie_003",
+      "name": "Dry Fruit Brownie",
+      "price": 1000,
+      "unit": "500-600 grams",
+      "description": "Brownie loaded with roasted dry fruits made with butter, refined flour, cocoa powder, melted chocolate  and eggs [ eggless version is also available] with intense taste",
+      "image": "public/brownies/dry-fruit-brownie.jpg",
+      "available": true
+    },
+    {
+      "id": "brownie_004",
+      "name": "Assorted Brownie",
+      "price": 1000,
+      "unit": "500-600 grams",
+      "description": "Assorted Brownies (9 Flavours) - A delightful box of rich, fudgy brownies in 9 different flavours, including Nutella, Peanut Butter, Biscoff, Dry Fruit, Dark Chocolate, Milk Chocolate, Walnut, Choco-chip, and Classic Chocolate. Perfect for gifting or indulging in a variety of flavors in one box.",
+      "image": "public/brownies/assorted-brownie-cake.jpg",
+      "available": true
+    },
+    {
+      "id": "brownie_005",
+      "name": "Customize Berry Brownie",
+      "price": 1200,
+      "unit": "500-600 grams",
+      "description": "Brownie loaded with strawberries and white choco chunks  made with butter, refined flour, cocoa powder, melted chocolate  and eggs [ eggless version is also available] with intense taste",
+      "image": "public/brownies/customize-berry-brownie.png",
+      "available": true
+    },
+    {
+      "id": "brownie_006",
+      "name": "Custom Pomo-Brownie",
+      "price": 400,
+      "unit": "200-300 gram",
+      "description": "Mini brownie cake with custom pomogranate topping on chocolate ,made with high quality ingredients",
+      "image": "public/brownies/custom-pomo-brownie.webp",
+      "available": true
+    },
+    {
+      "id": "brownie_007",
+      "name": "Classic Brownie Pcs of 4",
+      "price": 300,
+      "unit": "Classic 4pcs",
+      "description": "Classic brownie box of 4 piece [ customization available]",
+      "image": "public/brownies/class-brownie-box-of-4-piece.jpg",
+      "available": true
+    },
+    {
+      "id": "brownie_008",
+      "name": "Dry Fruit Brownie Pcs of 6",
+      "price": 400,
+      "unit": "Dry fruit 6 pcs",
+      "description": "Dry fruit brownie box of 6 piece [ customiation  available ]",
+      "image": "public/brownies/dry-fruit-box-of-6-pcs.jpg",
+      "available": true
+    }
+  ],
+  "blondie": [
+    {
+      "id": "blondi_001",
+      "name": "White Chocolate Blondie",
+      "price": 700,
+      "unit": "500-600 grams",
+      "description": "White chocolate blondie cake made butter, flour , milk and white melted chocolate [ egg/eggless ] which gives the unique taste",
+      "image": "public/blondies/white-chocolate-blondie.png",
+      "available": true
+    }
+  ],
+  "dum ke roat/ cookies": [
+    {
+      "id": "dum ke roat/ cookie_001",
+      "name": "Dum Ke Roat",
+      "price": 1000,
+      "unit": "1kg",
+      "description": "Hyderabadi authentic DUM KE ROAT made with dry fruits flour, semolina, butter/ ghee , milk . it gives the luxurious taste ",
+      "image": "public/dum-ke-roat/dum-ke-roat.jpg",
+      "available": true
+    },
+    {
+      "id": "dum ke roat/ cookie_002",
+      "name": "Choco Chip Cookie",
+      "price": 500,
+      "unit": "Minimum 10 pcs",
+      "description": "Chocochip cookie includes brown butter, refined flour, sugar and lots of chocolate chunks",
+      "image": "public/dum-ke-roat/chocochip-cookie.jpg",
+      "available": true
+    },
+    {
+      "id": "dum ke roat/ cookie_003",
+      "name": "Red Velvet Cookie",
+      "price": 500,
+      "unit": "Minimum 10 pcs",
+      "description": "Red valvet cookie made with red food color and little amount of cocoa powder, cream cheese,butter, refined flour. which gives the balance taste",
+      "image": "public/dum-ke-roat/red-valvet.jpg",
+      "available": true
+    },
+    {
+      "id": "dum ke roat/ cookie_004",
+      "name": "Lemon Crinkle Cookie",
+      "price": 500,
+      "unit": "Minimum 10 pcs",
+      "description": "Lemon crinckle cookie made with zest, lemon juice ,butter , flour and sugar which gives the perfect balance of sweet and sour",
+      "image": "public/dum-ke-roat/lemon-crinkle-cookie.jpg",
+      "available": true
+    }
+  ],
+  "puri": [
+    {
+      "id": "pur_001",
+      "name": "Puran Puri",
+      "price": 40,
+      "unit": "1 piece",
+      "description": "Traditional puris stuffed with smooth puran prepared from cooked chana dal, jaggery, ghee,  dry fruits and aromatic spices.",
+      "image": "public/puri/puran-puri.jpg",
+      "available": true
+    },
+    {
+      "id": "pur_002",
+      "name": "Choconut Puri",
+      "price": 35,
+      "unit": "1 piece",
+      "description": "Golden fried puris stuffed with a sweet filling of freshly grated coconut, sugar, dry fruits and cardamom.",
+      "image": "public/puri/coconut-puri.jpg",
+      "available": true
+    },
+    {
+      "id": "pur_003",
+      "name": "Khowa Puri",
+      "price": 60,
+      "unit": "1 piece",
+      "description": "Traditional puris filled with rich khowa prepared from slow-cooked milk, sugar, ghee, dry fruits and aromatic cardamom.",
+      "image": "public/puri/khowa-puri.jpg",
+      "available": true
+    }
+  ]
+}
